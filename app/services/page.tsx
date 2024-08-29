@@ -79,8 +79,8 @@ const ServicesPage = () => {
       </section>
 
       <div className="text-center">
-        <h2 className="text-3xl font-semibold mb-4">Ready to Accelerate Your Startup's Growth?</h2>
-        <p className="mb-8">Let's discuss how SuezConnect can help you achieve your goals faster and more efficiently.</p>
+        <h2 className="text-3xl font-semibold mb-4">Ready to Accelerate Your Startup&apos;s Growth?</h2>
+        <p className="mb-8">Let&apos;s discuss how SuezConnect can help you achieve your goals faster and more efficiently.</p>
         <Link href="/contact" className="btn btn-primary btn-lg">Schedule a Consultation</Link>
       </div>
     </div>

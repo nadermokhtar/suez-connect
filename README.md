@@ -94,7 +94,7 @@ daisyui: {
 5. [x] Build the About page with company and founder details
 6. [x] Create the Services page with comprehensive service descriptions
 7. [x] Implement the Contact page with forms and contact information
-8. [ ] Develop the Blog page and individual blog post functionality
+8. [x] Develop the Blog page and individual blog post functionality
 9. [ ] Integrate social media APIs for the Social Feed page
 10. [ ] Ensure responsive design across all pages
 11. [ ] Implement SEO best practices
