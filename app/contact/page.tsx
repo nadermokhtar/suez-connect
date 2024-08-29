@@ -8,10 +8,11 @@ const ContactPage = () => {
         <div>
           <h2 className="text-2xl font-bold mb-4">Get in Touch</h2>
           <iframe 
-            src="https://docs.google.com/forms/d/e/1FAIpQLSfNxsfIDi3Wd8zrxmZnOHnhv0cLhCj5eSVwn5-ggUtWh5_9Uw/viewform?embedded=true" 
-            width="640" 
+            src="https://docs.google.com/forms/d/e/1FAIpQLScJ5_4YWg9iUb4bTEWs0oN_-QI__6eMsKnO2Rvwg-LH0lpKRA/viewform?embedded=true" 
+            width="100%" 
             height="1985" 
-            className="rounded-lg shadow-lg w-full"
+            style={{border: 0}}
+            className="rounded-lg shadow-lg"
           >
             Loading…
           </iframe>
