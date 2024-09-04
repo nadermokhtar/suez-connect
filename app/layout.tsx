@@ -7,9 +7,22 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SuezConnect",
-  description: "Bridging tech opportunities between the US and MENA",
-};
+  title: 'SuezConnect',
+  description: 'Empowering startups to reach their goals faster through strategic outsourcing solutions.',
+  openGraph: {
+    title: 'SuezConnect',
+    description: 'Empowering startups to reach their goals faster through strategic outsourcing solutions.',
+    images: [
+      {
+        url: 'https://suezconnect.co/og-image.jpg',
+        width: 1200,
+        height: 630,
+      },
+    ],
+    url: 'https://suezconnect.co',
+    siteName: 'SuezConnect',
+  },
+}
 
 export default function RootLayout({
   children,
