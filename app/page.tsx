@@ -112,10 +112,10 @@ export default function Home() {
       <section className="bg-base-300 py-12 px-4">
         <div className="container mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            Ready to Accelerate Your Startup's Growth?
+            Ready to Accelerate Your Startup&apos;s Growth?
           </h2>
           <p className="mb-8">
-            Let's discuss how SuezConnect can help you achieve your goals faster
+            Let&apos;s discuss how SuezConnect can help you achieve your goals faster
             and more efficiently.
           </p>
           <Link href="/contact" className="btn btn-primary btn-lg">
