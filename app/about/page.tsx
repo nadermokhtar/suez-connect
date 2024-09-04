@@ -5,13 +5,13 @@ export default function About() {
   return (
     <main className="min-h-screen bg-base-200 py-12">
       <div className="container mx-auto px-4">
-        <h1 className="text-4xl font-bold mb-8 text-center">
+        <h1 className="text-4xl font-bold mb-8 text-center text-neutral">
           About SuezConnect
         </h1>
 
         <section className="mb-12">
           <h2 className="text-3xl font-semibold mb-4">Our Mission</h2>
-          <p className="mb-4">
+          <p className="mb-4 text-neutral">
             SuezConnect is dedicated to bridging tech opportunities between the
             United States and the Middle East & North Africa (MENA) region. We
             aim to simplify outsourcing for startups, helping them cut costs and

@@ -18,21 +18,7 @@ const config: Config = {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: [
-      {
-        desert: {
-          "primary": "#d9a566",
-          "secondary": "#8c7851",
-          "accent": "#e6c8a0",
-          "neutral": "#5c4f3d",
-          "base-100": "#f5e6d3",
-          "info": "#3abff8",
-          "success": "#36d399",
-          "warning": "#fbbd23",
-          "error": "#f87272",
-        },
-      },
-    ],
+    themes: [["lofi"]],
   },
 };
 export default config;

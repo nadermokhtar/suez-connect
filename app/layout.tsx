@@ -17,10 +17,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-theme="desert">
+    <html lang="en" >
       <body className={inter.className}>
         <Header />
-        <main className="min-h-screen">
+        <main className="pt-16 px-4">
           {children}
         </main>
         <Footer />
