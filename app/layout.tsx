@@ -30,7 +30,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" >
+    <html lang="en" data-theme="retro">
       <body className={inter.className}>
         <Header />
         <main className="pt-16 px-4">
